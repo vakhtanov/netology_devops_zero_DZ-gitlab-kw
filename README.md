@@ -58,7 +58,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
- [**ОТВЕТ**]([https://github.com/vakhtanov/netology-git-hw](https://github.com/vakhtanov/netology-git-hw/commit/cb75ab594715524fa1b25f19120157a7f03164d3))
+ [**ОТВЕТ**](https://github.com/vakhtanov/netology-git-hw/commit/cb75ab594715524fa1b25f19120157a7f03164d3)
 
 ---
 
