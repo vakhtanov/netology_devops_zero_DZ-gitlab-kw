@@ -32,15 +32,33 @@
 3. Перейдите в каталог с клоном репозитория.
 1. Произведите первоначальную настройку Git, указав своё настоящее имя и email: `git config --global user.name` и `git config --global user.email johndoe@example.com`.
 1. Выполните команду `git status` и запомните результат.
+
+![zd1_1gitstatus](https://github.com/vakhtanov/netology_devops_zero_DZ-gitlab-kw/assets/26109918/a1a0f54a-bfb9-4275-9dba-75fd7af3a118)
+
+   
 1. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 1. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
 1. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
+
+![zd1_2gitstatus](https://github.com/vakhtanov/netology_devops_zero_DZ-gitlab-kw/assets/26109918/840152ca-16b4-4e28-b617-84c21a14d1ef)
+
+
 1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
 1. Ещё раз выполните команды `git diff` и `git diff --staged`.
+
+![zd1_3gitstatus](https://github.com/vakhtanov/netology_devops_zero_DZ-gitlab-kw/assets/26109918/bfab0b64-22df-45fb-8230-d9d036ac8e6d)
+
+
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
+
+![zd1_4gitstatus](https://github.com/vakhtanov/netology_devops_zero_DZ-gitlab-kw/assets/26109918/dbeafbf8-c82a-4c15-93a7-63db1e0a8c9b)
+
+
 1. Сделайте `git push origin master`.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+**ОТВЕТ** [https://github.com/vakhtanov/netology-git-hw](https://github.com/vakhtanov/netology-git-hw)
 
 ---
 
